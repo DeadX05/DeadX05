@@ -5,6 +5,8 @@ I'm Bobur.
 
 ### 🤖 Robotics
 - [ROS memory game] (https://github.com/ALMOWAFI/risproject.git) - Interactive human-robot memory game using ROS.
+- My role: Implemented the game node that manages sequence generation, player checking, and scoring; created simulated robot model for virtual testing;
+  and tested node interactions during end-to-end integration
 - [AI racing coach] - AI coach that improves performance of racer by analyzing its data in real life.
 - Frontend: [ara-frontend] (https://github.com/giorgitrapaidze/ara-frontend.git)
 - Backend: [Constructor_Hackathon_2026_GENAI] (https://github.com/dbcoaqp/Constructor_Hackathon_2026_GENAI.git)
