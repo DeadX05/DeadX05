@@ -15,7 +15,7 @@ I'm Bobur.
 - [Multi-robot-Coordination] (https://github.com/DeadX05/Multi-robot-Coordination.git) - ROS 2 simulation where two robots share a grid map and receive tasks from a central allocator through ROS 2 topics, demonstrating multi-robot coordination, task allocation, node communication, launch configuration, and testable planning logic.
 My role: Designed and implemented the full ROS 2 system, including the shared map publisher, task allocator, robot agent nodes, launch/config files and unit tests for the allocation algorithm.
 - [CAN-Bus Joint Controller] (https://github.com/DeadX05/can-joint-controller.git) - Two-node ESP32 robotic joint controller over CAN bus, with PID position control for an N20 motor, encoder feedback, telemetry logging, CAD mount design, and demo media.
-- My role: Designed the CAN command/status protocol, implemented the Node B supervisor firmware, handled integration testing, telemetry logging flow, and project documentation.
+My role: Designed the CAN command/status protocol, implemented the Node B supervisor firmware, handled integration testing, telemetry logging flow, and project documentation.
 
 
 
